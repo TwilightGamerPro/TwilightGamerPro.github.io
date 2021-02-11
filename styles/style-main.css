@@ -33,7 +33,10 @@ li a:hover {
   background-color: #33FFD2;
   color: black;
 }
-
+li a:active {
+    background-color: #33FFD2;
+    color: #33FFD2;
+}
 .active{
   background-color: #33FFD2;
   color: #33FFD2;
