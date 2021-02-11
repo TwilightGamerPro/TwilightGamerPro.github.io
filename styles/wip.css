@@ -2,21 +2,21 @@
 	margin-left: 36%;
 	margin-top: 20%;
 }
-Text{
+.Text{
 	margin-left: 0%;
 	border-style: dashed;
 }
-.text1{
+text1{
 	font-family: cursive;
 	font-size: 30;
 	margin-left: 5%;
 }
-.poster{
+poster{
 	font-family: fantasy;
 	font-size: 20;
 	margin-left: 6%;
 }
-.staff{
+staff{
 	margin-left: 31.5%;
     margin-top: -4.8%;
 	font-family: fantasy;
