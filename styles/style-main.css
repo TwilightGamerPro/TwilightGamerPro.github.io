@@ -79,8 +79,9 @@ li:last-child {
 		margin-top: -1.5%;
 	}
 .staff{
-	margin-left: 21.7%;
-	margin-top: -2.9%;
+    position: absolute;
+	margin-left: 21.2%;
+	margin-top: -2.8%;
 	font-family: fantasy;
 	font-size: 20;
 	color: rgb(0, 0, 153);
