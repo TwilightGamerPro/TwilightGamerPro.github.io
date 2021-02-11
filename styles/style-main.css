@@ -59,23 +59,23 @@ li:last-child {
   background: white;
 }
 
-Text{
-	margin-left: 0%;
-	border-style: dashed;
-}
-text1{
-	font-family: cursive;
-	font-size: 30;
-	margin-left: 5%;
-}
-poster{
-	font-family: fantasy;
-	font-size: 20;
-	margin-left: 6%;
-}
-staff{
+.Text{
+		margin-left: 0%;
+		border-style: dashed;
+	}
+.text1{
+		font-family: cursive;
+		font-size: 30;
+		margin-left: 5%;
+	}
+.poster{
+		font-family: fantasy;
+		font-size: 20;
+		margin-left: 6%;
+	}
+.staff{
 	margin-left: 31.5%;
-    margin-top: -4.8%;
+	margin-top: -4.8%;
 	font-family: fantasy;
 	font-size: 20;
 	color: rgb(0, 0, 153);
