@@ -1,0 +1,25 @@
+.construction{
+	margin-left: 36%;
+	margin-top: 20%;
+}
+.Text{
+	margin-left: 0%;
+	border-style: dashed;
+}
+.text1{
+	font-family: cursive;
+	font-size: 30;
+	margin-left: 5%;
+}
+.poster{
+	font-family: fantasy;
+	font-size: 20;
+	margin-left: 10%;
+}
+.staff{
+	margin-left: 29.5%;
+	margin-top: -3.3%;
+	font-family: fantasy;
+	font-size: 20;
+	color: rgb(0, 0, 153);
+}
